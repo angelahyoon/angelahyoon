@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Angela!
 
 I am a statistics student at the University of Waterloo and an aspiring data analyst.
-Currently looking for Fall 2021 Internship opportunities!
+Currently looking for 2022 Internship opportunities!
 
 👩🏻‍💻 I’m currently working on improving my data analysis through a 66-days-of-data project!
 
