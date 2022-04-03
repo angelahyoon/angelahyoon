@@ -1,5 +1,7 @@
 ### Hello there 👋 I'm Angela!
 
+I am...
+
 * currently working on improving fleet/vehicle safety @geotab
 
 * studying Mathematical Statistics and Data Visualization at @uWaterloo
