@@ -1,11 +1,11 @@
 ### Hi there 👋 I'm Angela!
 
-I am a statistics student at the University of Waterloo and an aspiring data analyst.
-Currently looking for 2022 Internship opportunities!
+I am a statistics student at the University of Waterloo and an aspiring data scientist.
+Currently looking for 2023 Internship opportunities!
 
-👩🏻‍💻 I’m currently working on improving my data analysis through a 66-days-of-data project!
+👩🏻‍💻 I’m currently working as a Data Scientist at GEOTAB!
 
-📚 I’m currently learning Computational Statistics and Data Analysis, Data Structures, and Sampling & Experimental Design at the University of Waterloo
+📚 I’m currently learning Mathematical Statistics at University of Waterloo
 
 👯 I love to show my creative zeal through design work and greatly invested in content creating!
 
