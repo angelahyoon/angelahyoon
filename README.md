@@ -1,12 +1,11 @@
-### Hi there 👋 I'm Angela!
+### Hello there 👋 I'm Angela!
 
-I am a statistics student at the University of Waterloo and an aspiring data scientist.
-Currently looking for 2023 Internship opportunities!
+* currently working on improving fleet/vehicle safety @geotab
 
-👩🏻‍💻 I’m currently working as a Data Scientist at GEOTAB!
+* studying Mathematical Statistics and Data Visualization at @uWaterloo
 
-📚 I’m currently learning Mathematical Statistics at University of Waterloo
+* exploring my creative zeal through design work and content creating!
 
-👯 I love to show my creative zeal through design work and greatly invested in content creating!
+* pronouns: she/har
 
-📫 You can reach me at [hy2yoon@uwaterloo.ca](hy2yoon@uwaterloo.ca), I would love to learn about open positions :-)
+* You can reach me at [hy2yoon@uwaterloo.ca](hy2yoon@uwaterloo.ca), I would love to learn about 2023 opportunities :-)
